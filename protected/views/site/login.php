@@ -22,10 +22,9 @@ $this->breadcrumbs=array(
 	),
 )); ?>
 
+	<?php //echo $form->errorSummary($model); ?>
 	<?php echo $form->textFieldRow($model,'username',array('maxlength'=>30)); ?>
-
 	<?php echo $form->passwordFieldRow($model,'password',array('maxlength'=>30), array('hint'=>'Hint: You may login with <kbd>demo</kbd>/<kbd>demo</kbd> or <kbd>admin</kbd>/<kbd>admin</kbd>.')); ?>
-
 	<?php echo $form->checkboxRow($model,'rememberMe'); ?>
 
 	<div class="form-actions">

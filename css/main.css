@@ -1,0 +1,13 @@
+body
+{
+	padding-top:60px;
+	font-family:"Open Sans",Arial,Helvetica,sans-serif;
+	background:#EFEFEF;
+}
+
+#content {
+	padding:19px;
+	background-color:#F5F5F5;
+	border:1px solid rgba(0, 0, 0, 0.05);
+    border-radius:4px;
+}

@@ -1,4 +1,4 @@
-newsletter
+yii-base
 ==========
 
-Projet Newsletter LP SIL 2013-14
+Modèle Application Yii
